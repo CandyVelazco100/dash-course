@@ -59,11 +59,12 @@ body {
     text-align: center;
   }
 .banner {
-height: 75px;
-margin: 0px -10px 10px;
-background-color: #00072D;
-border-radius: 2px;
-display: block;
+  height: 75px;
+  margin: 0px -10px 10px;
+  background-color: #00072D;
+  border-radius: 2px;
+  display: block;
+  align-items: center;
 }
 
 .banner h1{
@@ -80,8 +81,6 @@ display: block;
     right: 30px;
     height: 75px;
 }
-
-
 
   .create_container2 {
     border-radius: 15px;
